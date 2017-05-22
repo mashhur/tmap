@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="detail_block_margin">8dp</dimen>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="alternative_names">Alternative names:</string>
+    <string name="app_name">maps.me capitals</string>
+    <string name="country">Country:</string>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/build/intermediates/exploded-aar/sample-app-capitals/lib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="down_pro">Download MAPS.ME</string>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="elevation">Elevation:</string>
+    <string name="lat">Lat:</string>
+    <string name="lon">Lon:</string>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/build/intermediates/exploded-aar/sample-app-capitals/lib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="mwm_should_be_installed">Offline maps are required to proceed. We have partnered with MAPS.ME to provide you with offline maps of the entire world.\nTo continue please download the app:</string>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="name">Name:</string>
+    <string name="open_with_mapswithme">Open with maps.me</string>
+    <string name="population">Population:</string>
+    <string name="show_all">Show all capitals with maps.me</string>
+    <string name="time_zone">Time Zone:</string>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/build/intermediates/exploded-aar/sample-app-capitals/lib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <string name="url_pro">http://maps.me/get</string>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme"/>
+    <!-- From: file:/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/build/intermediates/exploded-aar/sample-app-capitals/lib/unspecified/res/values/values.xml -->
+    <eat-comment/>
+    <style name="promoButton" parent="android:Widget.Button">
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:padding">6dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

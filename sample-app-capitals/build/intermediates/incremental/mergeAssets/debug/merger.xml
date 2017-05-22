@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/build/intermediates/exploded-aar/sample-app-capitals/lib/unspecified/assets"/></dataSet><dataSet config="main"><source path="/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/mashhur/Dev/git_repos/tmap/sample-app-capitals/src/debug/assets"/></dataSet></merger>

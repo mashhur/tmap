@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mashhur/Dev/git_repos/api-android/sample-app-capitals/build/intermediates/exploded-aar/sample-app-capitals/lib/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c38e10be048734dad4d2dc2e68f4f714f336f840">
+        <dex dex="/Users/mashhur/Dev/git_repos/api-android/sample-app-capitals/build/intermediates/pre-dexed/debug/classes-6e3fc9b64c5d7c53eb4a38e62f65f50b2bb1805b.jar" />
+    </item>
+
+</items>
